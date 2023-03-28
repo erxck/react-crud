@@ -4,7 +4,7 @@ import Main from "../template/Main";
 export default function Home() {
   return (
     <Main
-      icon="-home"
+      icon="home"
       title="Início"
       subtitle="Projeto cadastro de usuário em React."
     >

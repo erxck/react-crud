@@ -2,8 +2,8 @@
 
 > Sistema para exemplificar a construção de um cadastro desenvolvido em React!
 
-![Detalhes Web](public/home.jpg)
-![Detalhes Web](public/users.jpg)
+![Detalhes Web](public/home.png)
+![Detalhes Web](public/users.png)
 
 ## Introdução
 

@@ -3,7 +3,7 @@ import Main from "../template/Main";
 import axios from "axios";
 
 const headerProps = {
-  icon: "-user",
+  icon: "user",
   title: "Usuários",
   subtitle:
     "Cadastro de usuários: Incluir, Listar, Alterar, Excluir e Pesquisar!",
