@@ -13,7 +13,7 @@ O projeto pode ser construído com npm ou yarn. Caso não tenha nenhuma instalad
 
 - **Npm** é distribuído com o Node.js, o que significa que, ao baixar o Node.js, você automaticamente instala o npm no seu computador. [Download Node.js](https://nodejs.org/en)
 
-- **Fios** é um gerenciador de pacotes criado pela equipe do Facebook e parece ser mais rápido que o npm em geral. [Download Yarn](https://yarnpkg.com/getting-started/install)
+- **Yarn** é um gerenciador de pacotes criado pela equipe do Facebook e parece ser mais rápido que o npm em geral. [Download Yarn](https://yarnpkg.com/getting-started/install)
 
 ## Como instalar
 
@@ -45,8 +45,7 @@ ou
 Erick Nunes
 
 - [contatoerickrian@gmail.com](mailto:contatoerickrian@gmail.com)
-<!-- * [erickrian.com]( https://erickrian.com) -->
-- [github.com/erxck](http://github.com/erxck)
-- [linkedin.com/in/erick-rian](http://linkedin.com/in/erick-rian)
+- [github.com/erxck](https://github.com/erxck)
+- [linkedin.com/in/erick-rian](https://linkedin.com/in/erick-rian)
 
 E é isso! 😃💻
