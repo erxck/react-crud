@@ -11,7 +11,7 @@ Para fins de desenvolvimento e teste, siga às instruções abaixo.
 
 O projeto pode ser construído com npm ou yarn. Caso não tenha nenhuma instalada, escolha uma das opções abaixo.
 
-- **Npm** O NPM (Node Package Manager) é um gerenciador de pacotes de código aberto para JavaScript que faz parte do ecossistema do Node.js. [Download Node.js](https://nodejs.org/en)
+- **NPM** (Node Package Manager) é um gerenciador de pacotes de código aberto para JavaScript que faz parte do ecossistema do Node.js. [Download Node.js](https://nodejs.org/en)
 
 - **Yarn** é um gerenciador de pacotes de código aberto para JavaScript criado pelo Facebook e parece ser mais rápido que o npm em geral. [Download Yarn](https://yarnpkg.com/getting-started/install)
 
