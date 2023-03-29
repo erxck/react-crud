@@ -2,6 +2,14 @@
 
 > Sistema para exemplificar a construção de um cadastro desenvolvido em React!
 
+## Tecnologias
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [TailwindCSS](https://tailwindcss.com/)
+- JSON Server
+
 ![Detalhes Web](public/home.png)
 ![Detalhes Web](public/users.png)
 
