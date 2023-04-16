@@ -28,8 +28,8 @@ O projeto pode ser construído com npm ou yarn. Caso não tenha nenhuma instalad
 - Para baixar o projeto, siga as instruções abaixo.
 
 ```
-1. git clone https://github.com/erxck/crud.git
-2. cd crud
+1. git clone https://github.com/erxck/react-crud.git
+2. cd react-crud
 ```
 
 - Instale as dependências e inicie a aplicação.
@@ -44,13 +44,13 @@ ou
 
 ```
 3. yarn install
-4. yarn run dev
-5. yarn run server
+4. yarn dev
+5. yarn server
 ```
 
 ## Manter contato
 
-Erick Nunes
+**Erick Nunes**
 
 - [contatoerickrian@gmail.com](mailto:contatoerickrian@gmail.com)
 - [github.com/erxck](https://github.com/erxck)
